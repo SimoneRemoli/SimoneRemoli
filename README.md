@@ -11,7 +11,7 @@
 ### :lotus_position_man: About Me :
 
 I am a full stack developer from Italy. <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="20"/>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: In my career I have worked as a software developer in a company, database administrator and performed software parallelization tasks.
 
 - :seedling: Exploring Technical Content Writing.
 
