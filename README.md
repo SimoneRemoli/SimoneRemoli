@@ -18,7 +18,7 @@ I never stop learning.
 
 - :zap: In my free time I enjoy solving numerous mathematical games and guesses. I love combining software with mathematics.
 
-- :mailbox:How to reach me: (https://img.shields.io/badge/just%20the%20message-8A2BE2)] <a href = "mailto: simoneremoli00@gmail.com" src="https://img.shields.io/badge/just%20the%20message-8A2BE2">Send Email</a>
+- :mailbox:How to reach me: simoneremoli00@gmail.com.</a>
 
 
 
