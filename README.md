@@ -18,10 +18,10 @@ I never stop learning.
 
 - :zap: In my free time I enjoy solving numerous mathematical games and guesses. I love combining software with mathematics.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)] <a href = "mailto: simoneremoli00@gmail.com">Send Email</a>
 
 
-
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 <!--
 **SimoneRemoli/SimoneRemoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
