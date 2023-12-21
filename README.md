@@ -39,6 +39,8 @@ I never stop learning.
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="LabView" **alt="Labview" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>  
 </div>
+---
+
 ### :fire: My Stats :
 
 
