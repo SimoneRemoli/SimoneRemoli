@@ -10,7 +10,7 @@
 
 ### :lotus_position_man: About Me :
 
-I am a full stack developer from Italy. <img src="https://media.giphy.com/media/UVNJ7x7Ul3wIbjIhkA/giphy.gif" width="30"/>
+I am a full stack developer from Italy. <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="30"/>
 
 
 
