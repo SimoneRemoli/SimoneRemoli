@@ -8,7 +8,7 @@
 </h1>
 ---
 
-### :woman_technologist: About Me :
+### :lotus_position_man: About Me :
 
 <!--
 **SimoneRemoli/SimoneRemoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
