@@ -10,6 +10,13 @@
 
 ### :lotus_position_man: About Me :
 
+I am a full stack developer from Italy. <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif]" width="30"> 
+
+
+
+
+
+
 <!--
 **SimoneRemoli/SimoneRemoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
