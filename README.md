@@ -38,8 +38,6 @@ I never stop learning.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>  
 </div>
 ---
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneRemoli)]()
 
 
