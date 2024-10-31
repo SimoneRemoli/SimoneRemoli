@@ -41,7 +41,7 @@ I never stop learning.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneRemoli)]()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneRemoli&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneRemoli&layout=donut)]()
 
 
 <!--
