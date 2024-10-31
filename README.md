@@ -40,7 +40,6 @@ I never stop learning.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneRemoli&layout=donut)]()
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SimoneRemoli)](https://github.com/SimoneRemoli/github-readme-stats)
 
 
 <!--
