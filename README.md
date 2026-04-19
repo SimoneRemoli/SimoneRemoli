@@ -14,8 +14,6 @@
 - :seedling: My goal is to write clean, easily understandable code and work in a team to improve every day.
 I never stop learning.
 
-- :zap: In my free time I enjoy solving numerous mathematical games and guesses. I love combining software with mathematics.
-
 - :mailbox: How to reach me: simoneremoli00@gmail.com.</a>
 
 
